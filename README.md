@@ -1,6 +1,4 @@
-# NHS Claims Analytics — KPI Dashboard
-### DS-03 | Data Science & Analytics Squad
-**AI Insurance Claim Automation — UK NHS & Private Clinic Demo**
+# AI Insurance Claim Automation — UK
 
 ---
 
