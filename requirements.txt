@@ -1,0 +1,19 @@
+# DS-03 KPI Dashboard — Requirements
+# W1: KPI Computation | W2: Static Dashboard | W3: Live Dash App
+
+# Core data
+pandas
+numpy
+
+# Plotting — W1, W2, W3
+plotly
+
+# Dash — W3 only
+dash
+dash-bootstrap-components
+
+# Database — W3 only
+sqlalchemy
+
+# PostgreSQL driver — uncomment when FS-06 provides credentials
+# psycopg2-binary

@@ -19,10 +19,6 @@ env/
 .ipynb_checkpoints/
 */.ipynb_checkpoints/
 
-# ── Data Files (keep only demo data) ─────────────────
-*.csv
-!ds03/data/claim_data.csv
-!ds03/data/claims_demo.csv
 
 # ── Sensitive / Credentials ───────────────────────────
 .env
