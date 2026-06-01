@@ -58,3 +58,12 @@ npm-debug.log*
 # ── Docker ────────────────────────────────────────────
 .dockerignore
 docker-compose.override.yml
+
+# Datasets — shared via team drive, not committed
+*.csv
+
+# Virtual environment
+venv/
+__pycache__/
+*.pyc
+*.db
